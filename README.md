@@ -1,1 +1,1 @@
-[link to markdown](MARKDOWN.md)
+[link to markdown](/MARKDOWN.md)
